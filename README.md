@@ -1,6 +1,6 @@
 ## Hi there I'm JDColt 👋
 ### I am a student currently studying comp-sci and cyber at Geneva College 📚
-### I am interested in learning how to use GitHub better and in doing so I want to begin to improve my codin and learning skills 💪
+### I am interested in learning how to use GitHub better and in doing so I want to begin to improve my coding and learning skills 💪
 #### Ask me about Soccer! ⚽
 #### How to reach me: jdeclancolt@gmail.com or (223)-322-9544
 
